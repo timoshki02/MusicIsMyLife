@@ -25,7 +25,7 @@ SECRET_KEY = 'e4oggdfl2%oxo24*fld^j2#%7#h9wzb3^z956yyt_&l)ywoapc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['music-165216.appspot.com']
 
 
 # Application definition
