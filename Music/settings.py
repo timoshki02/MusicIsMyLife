@@ -147,9 +147,8 @@ USE_TZ = True
 STATIC_ROOT = 'static'
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
-STATIC_ROOT = os.path.join(BASE_DIR,"static", "static_root")
 MEDIA_ROOT = os.path.join(BASE_DIR,"static", "media")
-STATICFILES_DIRS = os.path.join(BASE_DIR, 'static','static_dirs'),
+
 
 GOOGLE_CLOUD_STORAGE_BUCKET = ‘music-165216.appspot.com’
 GOOGLE_CLOUD_STORAGE_URL = ‘http://storage.googleapis.com/music-165216.appspot.com’
