@@ -149,7 +149,7 @@ STATIC_URL = '/static/'
 
 
 
-GOOGLE_CLOUD_STORAGE_BUCKET = ‘music-165216.appspot.com’
-GOOGLE_CLOUD_STORAGE_URL = ‘http://storage.googleapis.com/music-165216.appspot.com’
-GOOGLE_CLOUD_STORAGE_DEFAULT_CACHE_CONTROL = ‘public, max-age: 7200’
-DEFAULT_FILE_STORAGE = ‘django_google_cloud_storage.GoogleCloudStorage’
+GOOGLE_CLOUD_STORAGE_BUCKET = 'music-165216.appspot.com'
+GOOGLE_CLOUD_STORAGE_URL = 'http://storage.googleapis.com/music-165216.appspot.com'
+GOOGLE_CLOUD_STORAGE_DEFAULT_CACHE_CONTROL = 'public, max-age: 7200'
+DEFAULT_FILE_STORAGE = 'django_google_cloud_storage.GoogleCloudStorage'
